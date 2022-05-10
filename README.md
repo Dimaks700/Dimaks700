@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dimaks700
+- 👀 I’m interested in becoming a software engineer
+- 🌱 I’m currently learning Pythin/Django
+- 📫 How to reach me: https://t.me/Khomy_doo_lin
