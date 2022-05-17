@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dimaks700
+- 👋 Hi! My name is Dmitry and I am a Python Developer 
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning Pythin/Django
-- 📫 How to reach me: https://t.me/Khomy_doo_lin
+- 📫 You can reach me with telegram: https://t.me/Khomy_doo_lin
