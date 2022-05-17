@@ -4,3 +4,4 @@
 - 📫 You can reach me with [telegram](https://t.me/Khomy_doo_lin).
 - Some of the technologies I have worked with:
 - [Python](https://www.python.org/).
+- ![python image](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
