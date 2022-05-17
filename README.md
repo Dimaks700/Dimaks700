@@ -2,7 +2,7 @@
   👋 Hi! My name is Dmitry and I am a beginning Python Developer 
 </p>
 
-- :seedling: I’m currently learning Pythin/Django
+- :seedling: I’m currently learning Python/Django
 - :mailbox: You can reach me with:
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khomy_doo_lin) 
