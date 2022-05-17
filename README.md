@@ -3,8 +3,9 @@
 </p>
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning Pythin/Django
-- 📫 You can reach me with:
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khomy_doo_lin)
+- 📫 - :mailbox: You can reach me with:
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khomy_doo_lin) 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanomas09@gmail.com)
 
 
