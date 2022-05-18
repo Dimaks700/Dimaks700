@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hi! My name is Dmitry and I am a beginning Python Developer 
+  👋 Hi! My name is Dmitry and I am a Beginner Python Developer 
 </p>
 
 - :seedling: I’m currently learning Python/Django
