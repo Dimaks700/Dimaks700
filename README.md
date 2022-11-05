@@ -14,3 +14,4 @@
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"></a></code>
