@@ -1,8 +1,7 @@
 <p align="center">
-  👋 Hi! My name is Dmitry and I am a Beginner Python Developer 
+  👋 Hi! My name is Dmitry and I am a SDET in MCST 
 </p>
 
-- :seedling: I’m currently learning Python/FastAPI and C
 - :mailbox: You can reach me with:
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khomy_doo_lin) 
