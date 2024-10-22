@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hi! My name is Dmitry and I am a SDET in MCST 
+  👋 Hi! My name is Dmitry and I am a QA engineer in MCST 
 </p>
 
 - :mailbox: You can reach me with:
